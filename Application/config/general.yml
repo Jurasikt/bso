@@ -1,0 +1,9 @@
+database: 
+    hostname: localhost
+    username: root
+    password: 
+    database: 
+
+site: /
+url:  http://example.com/
+timezone: Europe/Minsk

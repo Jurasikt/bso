@@ -1,0 +1,19 @@
+home:
+    url: /
+    controller: home
+    action: index
+
+main:
+    url: (action)/
+    controller: home
+    action: action
+
+user:
+    url: user/
+    controller: user
+    action: index
+
+user2:
+    url: user/(action)/
+    controller: user
+    action: action
